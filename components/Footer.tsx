@@ -6,7 +6,7 @@ import {
 } from "react-icons/ai";
 const Footer = () => {
   return (
-    <footer>
+    <footer style={{ backgroundColor: "gray" }}>
       <div className={styles.footerRow}>
         <p>Created and Designed by Daniel Coder</p>
       </div>
